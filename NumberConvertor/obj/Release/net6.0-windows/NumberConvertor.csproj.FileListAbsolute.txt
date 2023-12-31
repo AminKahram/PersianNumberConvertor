@@ -1,0 +1,16 @@
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\bin\Release\net6.0-windows\NumberConvertor.exe
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\bin\Release\net6.0-windows\NumberConvertor.deps.json
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\bin\Release\net6.0-windows\NumberConvertor.runtimeconfig.json
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\bin\Release\net6.0-windows\NumberConvertor.dll
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\bin\Release\net6.0-windows\NumberConvertor.pdb
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\NumberConvertor.ConvertorForm.resources
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\NumberConvertor.csproj.GenerateResource.cache
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\NumberConvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\NumberConvertor.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\NumberConvertor.AssemblyInfo.cs
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\NumberConvertor.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\NumberConvertor.dll
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\refint\NumberConvertor.dll
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\NumberConvertor.pdb
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\NumberConvertor.genruntimeconfig.cache
+C:\Users\Amin\Desktop\Test\NumberConvertor\NumberConvertor\obj\Release\net6.0-windows\ref\NumberConvertor.dll
