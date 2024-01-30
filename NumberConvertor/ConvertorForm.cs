@@ -120,14 +120,19 @@ public partial class ConvertorForm : Form
         else
         {
             result = string.Concat(result, numberDic[(byte)(left * 10)]);
-            result = string.Concat(result, "و");
-            result = string.Concat(result, GetOneDigitValue(right.ToString()));
+            if (number.Equals("0", StringComparison.OrdinalIgnoreCase))
+            {
+                result = string.Concat(result, "و");
+                result = string.Concat(result, GetOneDigitValue(right.ToString()));
+            }
         }
 
         return result;
     }
     private string GetOneDigitValue(string number)
-        => numberDic[byte.Parse(number)];
+        =>numberDic[byte.Parse(number)];
+    
+    
     
 
     private void ConvertorForm_Load(object sender, EventArgs e)
@@ -173,7 +178,7 @@ public partial class ConvertorForm : Form
             result = string.Concat(result, unitDic[(byte)((sections > 6 ? 8 : sections) - 1)]);
 
             // adding و  at the end  of each unit
-            if (numberSection.i == 0)
+            if (numberSection.i == 0 && numberLen > 1 && !numberSection.value.StartsWith("1"))
                 result = string.Concat(result, "و");
 
             // decreasing section to get suitable unit value
